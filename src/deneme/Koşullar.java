@@ -17,7 +17,7 @@ public class Koşullar {
     public static void main(String[] args) {
         // TODO code application logic here
     int i = 8;
-    if(i<10){
+    if(i=10){
     System.out.println("i'nin değeri 10dur");
 }
     else {
